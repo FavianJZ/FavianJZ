@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,24,30&height=220&section=header&text=Favian%20Junnanda%20Zahri&fontSize=42&fontColor=00f0ff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Creative%203D%20Coder&descAlignY=62&descSize=17&descColor=e6f1ff" width="100%" alt="Favian Junnanda Zahri Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=Favian%20Junnanda%20Zahri&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Creative%203D%20Coder&descAlignY=62&descSize=17&descColor=00f0ff" width="100%" alt="Favian Junnanda Zahri Header Banner" />
 
 <!-- Typing Animation -->
 <a href="https://favianjunnandazahri.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+%40+BINUS;IT+Developer+(Frontend)+%40+Enrichment+Program;Crafting+Immersive+3D+Web+Experiences;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js+%E2%80%A2+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+%40+BINUS;IT+Developer+(Frontend)+%40+Enrichment+Program;Crafting+Immersive+3D+Web+Experiences;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js+%E2%80%A2+Python" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00f0ff&borderColor=00f0ff)](https://favianjunnandazahri.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://favianjunnandazahri.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favian-junanda-zahri)
 [![Email](https://img.shields.io/badge/BINUS%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favian.zahri@binus.ac.id)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FavianJZ)
@@ -34,14 +34,14 @@ current_role:
   period: Feb 2026 – Present
 focus_areas:
   - High-performance web development with React & TypeScript
-  - Interactive 3D WebGL / Three.js animations & immersive creative coding
-  - Machine Learning, Computer Vision (OpenCV) & Data Integration
+  - Interactive 3D WebGL / Three.js animations & creative coding
+  - Machine Learning, Computer Vision (OpenCV) & Data Analytics
 location: Jakarta, Indonesia 🇮🇩
 ```
 
-- 🔭 **Currently Building**: Interactive 3D experiences, scalable web applications, and competition monitoring systems.
+- 🔭 **Currently Building**: Interactive 3D web experiences, modern web applications, and competition monitoring systems.
 - ⚡ **Enrichment Experience**: Actively contributing as Frontend IT Developer at BINUS School of Computer Science, building production-grade web interfaces.
-- 🎨 **Design Philosophy**: Merging robust software engineering with stunning visual aesthetics and seamless UX.
+- 🎨 **Engineering Philosophy**: Merging robust software engineering with stunning visual aesthetics and seamless UX.
 - 💬 **Ask me about**: `React`, `TypeScript`, `Three.js`, `Python`, `Zustand`, and modern UI architecture.
 
 ---
@@ -153,7 +153,7 @@ location: Jakarta, Indonesia 🇮🇩
 <div align="center">
 
 <!-- Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,5&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,18,12&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 <p align="center">
   <b>Designed & Crafted with dedication by <a href="https://github.com/FavianJZ">Favian Junnanda Zahri</a></b><br>

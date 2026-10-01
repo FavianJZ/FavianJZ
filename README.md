@@ -91,62 +91,35 @@ location: Jakarta, Indonesia 🇮🇩
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=FavianJZ&show_icons=true&theme=tokyonight&border_color=00f0ff&bg_color=050816&title_color=00f0ff&text_color=e6f1ff&icon_color=40fb9d&hide_border=false" width="100%" alt="Favian's GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavianJZ&layout=compact&theme=tokyonight&border_color=00f0ff&bg_color=050816&title_color=00f0ff&text_color=e6f1ff&hide_border=false" width="100%" alt="Favian's Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=FavianJZ&theme=tokyonight&border=00f0ff&background=050816&ring=00f0ff&fire=ff6b35&currStreakNum=00f0ff" width="85%" alt="Favian's Streak Stats" />
-</div>
-
----
-
 ### 🚀 Highlighted Repositories
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🪐 <a href="https://github.com/FavianJZ/Portofolio">Space Odyssey Portfolio</a></h4>
+      <h4 align="center">🪐 <a href="https://github.com/FavianJZ/Portofolio">Portofolio</a></h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Three.js-3D%20Experience-00f0ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Three.js-Interactive%203D-00f0ff?style=flat-square" />
       </p>
-      <p>Interactive 3D WebGL space voyage portfolio with ACESFilmic tone mapping, responsive glassmorphic HUD, interactive certificate preview panel, and zero heavy frameworks.</p>
+      <p>Personal interactive 3D WebGL portfolio with ACESFilmic tone mapping, responsive glassmorphic HUD, interactive certificate preview panel, and custom shaders.</p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🛰️ <a href="https://github.com/FavianJZ/space-academy-app">Space Academy App</a></h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-React%20%2B%20Zustand-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role-Full%20Stack-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-Three.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-      <p>Interactive educational space academy application featuring 3D module rendering, robust state management, and modern component architecture.</p>
+      <p>Interactive educational space academy application featuring 3D module rendering and modern component architecture. Built as Full Stack Developer, with backend support from a peer.</p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🏆 <a href="https://github.com/FavianJZ/Sistem-Monitoring-Perlombaan-Mahasiswa">Monitoring Perlombaan</a></h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Role-Backend%20%26%20Frontend-F7DF1E?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
       </p>
-      <p>Academic student competition tracking platform designed for managing registrations, progress verification, and statistical performance monitoring.</p>
+      <p>Academic student competition tracking platform for managing registrations and performance monitoring. Focused on backend data architecture and assisted in frontend development (currently in active development).</p>
     </td>
   </tr>
 </table>
-
----
-
-### 📜 Verified Credentials & Certifications
-
-- 🏅 **HackerRank**: [Java (Basic) Certificate](https://www.hackerrank.com/certificates/fb15cbe996a3) &bull; `ID: FB15CBE996A3`
-- 🏅 **Dicoding Indonesia**: [Memulai Pemrograman Dengan C](https://www.dicoding.com/certificates/L4PQWGJR4PO1) &bull; `ID: L4PQWGJR4PO1`
-- 🏅 **Google Skillshop**: YouTube Music Rights Management Certification &bull; `ID: 479612420` (Score: 96%)
 
 ---
 
